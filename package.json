@@ -8,6 +8,6 @@
   "dependencies": {
     "express": "^4.17.1",
     "cors": "^2.8.5",
-    "agora-token": "^4.0.0"
+    "agora-token": "^2.0.4"
   }
 }
